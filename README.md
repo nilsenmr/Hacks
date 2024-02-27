@@ -1,7 +1,7 @@
-# Hacks
+# Hack-1
 :bookmark: Hacks curso de programación FullStack de SocialOplesk
 
-**:page_with_curl: Rutas de los Hacks:** 
+**:page_with_curl: Rutas de los Hacks** 
 
 ```
 1. https://github.com/nilsenmr/git_h_1
