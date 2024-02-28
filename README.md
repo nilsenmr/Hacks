@@ -16,3 +16,5 @@
 ☑️ [rep-hack-6](https://github.com/nilsenmr/git_h_6)
 
 ☑️ [rep-hack-7](https://github.com/nilsenmr/git_h_7)
+
+☑️ [rep-hack-8](https://github.com/nilsenmr/git_h_8)
